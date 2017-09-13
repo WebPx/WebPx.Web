@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+    <metadata>
+        <id>WebPx.Web</id>
+        <version>6.0.0.0</version>
+        <title>WebPx.Web</title>
+        <authors>WebPx Technologies</authors>
+        <owners>WebPx Technologies</owners>
+        <licenseUrl>https://www.webpx.com/licensing/freeware-license</licenseUrl>
+        <requireLicenseAcceptance>true</requireLicenseAcceptance>
+        <description>Simple and effective controls for developing web sites base on ASP.NET Forms</description>
+        <summary>Basic ASP.NET Controls and Framework</summary>
+        <copyright>Copyright © WebPx Technologies 2017</copyright>
+        <tags>Web,ASP.NET Forms</tags>
+    </metadata>
+    <files>
+        <file src="bin\release\WebPx.Web.dll" target="lib\net40\WebPx.Web.dll" />
+    </files>
+</package>

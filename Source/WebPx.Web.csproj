@@ -70,6 +70,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="packages.config" />
+    <None Include="WebPx.Web.nuspec" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <Import Project="packages\NuPack.3.4.4\build\NuPack.targets" Condition="Exists('packages\NuPack.3.4.4\build\NuPack.targets')" />

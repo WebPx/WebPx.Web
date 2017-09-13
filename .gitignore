@@ -4,6 +4,7 @@
 
 *.sqlite
 *.suo
+*.user
 /Source/packages/*
 /Source/obj/*
 .vs/*
